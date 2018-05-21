@@ -10,5 +10,6 @@ public class Main {
     }
     private void testIt(){
         System.out.println("分支提交");
+        System.out.println("主干提交");
     }
 }
