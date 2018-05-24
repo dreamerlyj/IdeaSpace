@@ -1,5 +1,3 @@
-package com.company;
-
 public class Main {
 
     public static void main(String[] args) {
@@ -11,5 +9,6 @@ public class Main {
     private void testIt(){
         System.out.println("分支提交");
         System.out.println("主干提交");
+        System.out.println("test");
     }
 }
